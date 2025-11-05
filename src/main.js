@@ -3,22 +3,22 @@ const musics = [
     id: 1,
     artist: "Mehrad Hidden",
     name: "khodaye bi nahayat",
-    cover: "./public/cover/mehrad-hidden-khodaye-binahayat.jpg",
-    url: "./public/music/mehrad-hidden-khodaye-binahayat.mp3",
+    cover: "public/cover/mehrad-hidden-khodaye-binahayat.jpg",
+    url: "public/music/mehrad-hidden-khodaye-binahayat.mp3",
   },
   {
     id: 2,
     artist: "Mehrad Hidden",
     name: "Hamoomi",
-    cover: "./public/cover/mehrad-hidden-hamoomi.jpg",
-    url: "./public/music/mehrad-hidden-hamoomi.mp3",
+    cover: "public/cover/mehrad-hidden-hamoomi.jpg",
+    url: "public/music/mehrad-hidden-hamoomi.mp3",
   },
   {
     id: 3,
     artist: "Ali Yassini",
     name: "Nafahmidam",
-    cover: "./public/cover/ali-yasini-x-poori-nafahmidam.jpg",
-    url: "./public/music/ali-yasini-x-poori-nafahmidam.mp3",
+    cover: "public/cover/ali-yasini-x-poori-nafahmidam.jpg",
+    url: "public/music/ali-yasini-x-poori-nafahmidam.mp3",
   },
 ];
 
